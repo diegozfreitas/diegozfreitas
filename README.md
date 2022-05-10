@@ -13,7 +13,8 @@ Reconheço que Deus é o provedor de toda sabedoria, caminhos e portunidades, po
 
 #### Meus links 🛸
 
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.diegozf.com.br/) [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIvRMVDC2YejwzxfXXAIKeg) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego.zadravec/g)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegozfreitas/) [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.diegozf.com.br/) 
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIvRMVDC2YejwzxfXXAIKeg) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego.zadravec/g)
 
 
 #### No que eu mando muito bem 😎
@@ -27,9 +28,7 @@ Reconheço que Deus é o provedor de toda sabedoria, caminhos e portunidades, po
 
 #### Meus gráficos 😉
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegozfreitas&show_icons=true&theme=graywhite ) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegozfreitas&layout=compact&theme=graywhite )](https://github.com/diegozfreitas/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegozfreitas&show_icons=true&theme=graywhite ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegozfreitas&layout=compact&theme=graywhite )](https://github.com/diegozfreitas/github-readme-stats)
 
 
 
