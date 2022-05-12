@@ -4,7 +4,7 @@
 
 Sou desenvolvedor Javascript e tenho conhecimento para gerir o desenvolvimento de uma aplicação desde o front-end até o back-end, porem gosto mais de atuar com o front-end, faço trabalhos freelances após expediente, estou sempre estudando e ajudo pessoas que queiram entrar na área mentoriando.
 
-Reconheço que Deus é o provedor de toda sabedoria, caminhos e portunidades, pois se não é ele. Eu não seria nada!
+Reconheço que Deus é o provedor de toda sabedoria, caminhos e oportunidades, pois se não é ele. Eu não seria nada!
 
 
 #### Fale comigo rapidão 🚀
